@@ -1,23 +1,68 @@
-## Hi there 👋
 
-<!--
-**JaimePrada11/JaimePrada11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Jaime Prada! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+
+🚀 **Junior Backend Developer** passionate about building scalable and efficient backend solutions. I focus on delivering high-impact results with a strategic vision. 
+
+### 🔥 My Strengths:
+- 🧠 **Logical thinking** for solving complex problems.
+- 🎯 **Goal-oriented** to drive projects to success.
+- 🔍 **Attention to detail** to ensure high-quality solutions.
+- 🤝 **Collaboration & leadership** to foster innovation.
+
+💡 Always eager to learn new technologies and contribute to exciting projects!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🌐 Backend & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaimePrada11&show_icons=true&theme=radical" alt="JaimePrada11's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaimePrada11&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimePrada11&layout=compact&theme=radical" alt="JaimePrada11's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimePrada11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaimeprada11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
