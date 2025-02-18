@@ -55,13 +55,22 @@
 
 ---
 
+
+## 🚀 Projects
+Feel free to check out my repositories to see what I'm working on! I'm always open to collaboration and feedback.
+
 ## 📬 Connect with Me
 
+
+I'm always excited to connect with fellow developers, enthusiasts, and collaborators. Feel free to reach out to me through any of the platforms below:
+
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaimeprada11/">
+  <a href="https://www.linkedin.com/in/jprada11/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jandrespradato.11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
