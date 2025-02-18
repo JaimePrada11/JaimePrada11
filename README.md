@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Jaime Prada! 👋</h1>
 
 <p align="center">
@@ -17,7 +16,7 @@
 - 🔍 **Attention to detail** to ensure high-quality solutions.
 - 🤝 **Collaboration & leadership** to foster innovation.
 
-💡 Always eager to learn new technologies and contribute to exciting projects!
+💡 Currently learning **Node.js & Express** to expand my backend expertise!
 
 ---
 
@@ -55,16 +54,12 @@
 
 ---
 
-
 ## 🚀 Projects
 Feel free to check out my repositories to see what I'm working on! I'm always open to collaboration and feedback.
 
 ## 📬 Connect with Me
 
-
-I'm always excited to connect with fellow developers, enthusiasts, and collaborators. Feel free to reach out to me through any of the platforms below:
-
-
+I'm always happy to connect with other developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me through any of the platforms below:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jprada11/">
@@ -75,3 +70,4 @@ I'm always excited to connect with fellow developers, enthusiasts, and collabora
   </a>
 </p>
 
+---
